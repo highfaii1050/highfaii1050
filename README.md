@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Highfaii1050's GitHub stats](https://github-readme-stats.vercel.app/api?username=highfaii1050)](https://github.com/highfaii1050/github-readme-stats)
+
 <!--
 **highfaii1050/highfaii1050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
