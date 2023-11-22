@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<a href="https://github.com/highfaii1050/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=highfaii1050&theme=transparent" />
+<a href="https://github.com/leongcheefai/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leongcheefai&theme=transparent" />
 </a>
 
-<a href="https://github.com/highfaii1050/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=highfaii1050&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+<a href="https://github.com/leongcheefai/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leongcheefai&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
 <!--
